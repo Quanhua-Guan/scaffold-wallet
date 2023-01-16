@@ -1,1 +1,1 @@
-../../../../../node_modules/react-native-permissions/ios/Camera/RNPermissionHandlerCamera.h
+../../../../../../../node_modules/react-native-permissions/ios/Camera/RNPermissionHandlerCamera.h

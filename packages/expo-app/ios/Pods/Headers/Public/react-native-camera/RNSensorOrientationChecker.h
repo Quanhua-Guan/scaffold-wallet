@@ -1,1 +1,1 @@
-../../../../../node_modules/react-native-camera/ios/RN/RNSensorOrientationChecker.h
+../../../../../../../node_modules/react-native-camera/ios/RN/RNSensorOrientationChecker.h
